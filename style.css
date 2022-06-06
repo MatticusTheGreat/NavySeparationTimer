@@ -53,4 +53,8 @@ h1 {
     font-size: 2.4rem;
     margin: 0 1.5rem;
   }
+
+  .countdown-el span {
+    font-size: 0.75rem;
+  }
 }
